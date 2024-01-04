@@ -1,7 +1,7 @@
 // The Swift Programming Language
 // https://docs.swift.org/swift-book
 
-class ExampleTest {
+public class ExampleTest {
     func doAction() {
         print("Here")
     }
